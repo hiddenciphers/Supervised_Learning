@@ -21,29 +21,29 @@ The purpose of this analysis is to develop machine learning models that can pred
 
 ## **Logistic Regression Model with Original Data:**
 ![alt text](img/classification_report_1.png)
-**Balanced Accuracy Score:** 0.952
+- **Balanced Accuracy Score:** 0.952
 
-**Precision (0):** 1.00
+- **Precision (0):** 1.00
 
-**Precision (1):** 0.85
+- **Precision (1):** 0.85
 
-**Recall (0):** 0.99
+- **Recall (0):** 0.99
 
-**Recall (1):** 0.91
+- **Recall (1):** 0.91
 
 ---
 
 ## **Logistic Regression Model with Resampled Data:**
 ![alt text](img/classification_report_2.png)
-**Balanced Accuracy Score:** 0.994
+- **Balanced Accuracy Score:** 0.994
 
-**Precision (0):** 1.00
+- **Precision (0):** 1.00
 
-**Precision (1):** 0.84
+- **Precision (1):** 0.84
 
-**Recall (0):** 0.99
+- **Recall (0):** 0.99
 
-**Recall (1):** 0.99
+- **Recall (1):** 0.99
 
 ---
 
